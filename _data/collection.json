@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Allen Ginsberg Collaboration" ] },
+    "summary": { "en": [ "Collaborative project collecting annotations on audio recordings of Allen Ginsberg." ] },
+    "items": [
+    ]
+}
