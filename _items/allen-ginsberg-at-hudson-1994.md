@@ -5,3 +5,4 @@ manifest_name: allen-ginsberg-at-hudson-1994
 ---
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
+This is a test to see how it works.
