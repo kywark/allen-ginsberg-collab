@@ -23,6 +23,14 @@
         "id": "https://sounding-off.github.io/allen-ginsberg-collab/allen-ginsberg-at-hudson-1994/canvas-1/canvas",
         "type": "Canvas",
         "duration": 51.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://sounding-off.github.io/allen-ginsberg-collab/allen-ginsberg-at-hudson-1994/canvas-1/canvas/layer-1.json",
+            "label": "layer 1"
+          }
+        ],
         "items": [
           {
             "id": "https://sounding-off.github.io/allen-ginsberg-collab/allen-ginsberg-at-hudson-1994/canvas-1/paintings",
