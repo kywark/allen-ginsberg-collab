@@ -27,6 +27,12 @@
           
           {
             "type": "AnnotationPage",
+            "id": "https://kywark.github.io/allen-ginsberg-collab/allen-ginsberg-at-hudson-1994/canvas-1/canvas/layer2.json",
+            "label": "layer2"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://kywark.github.io/allen-ginsberg-collab/allen-ginsberg-at-hudson-1994/canvas-1/canvas/layer1.json",
             "label": "layer1"
           }
