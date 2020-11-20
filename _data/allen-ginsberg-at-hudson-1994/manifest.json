@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://sounding-off.github.io/allen-ginsberg-collab/allen-ginsberg-at-hudson-1994/manifest.json",
+    "id": "https://kywark.github.io/allen-ginsberg-collab/allen-ginsberg-at-hudson-1994/manifest.json",
     "type": "Manifest",
     "label": { "en": [ "Allen Ginsberg at Hudson 1994" ] },
     "homepage": [
@@ -20,24 +20,30 @@
     ],
     "items": [
       {
-        "id": "https://sounding-off.github.io/allen-ginsberg-collab/allen-ginsberg-at-hudson-1994/canvas-1/canvas",
+        "id": "https://kywark.github.io/allen-ginsberg-collab/allen-ginsberg-at-hudson-1994/canvas-1/canvas",
         "type": "Canvas",
         "duration": 51.0,
         "annotations": [
           
           {
             "type": "AnnotationPage",
-            "id": "https://sounding-off.github.io/allen-ginsberg-collab/allen-ginsberg-at-hudson-1994/canvas-1/canvas/layer1.json",
+            "id": "https://kywark.github.io/allen-ginsberg-collab/allen-ginsberg-at-hudson-1994/canvas-1/canvas/layer2.json",
+            "label": "layer2"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://kywark.github.io/allen-ginsberg-collab/allen-ginsberg-at-hudson-1994/canvas-1/canvas/layer1.json",
             "label": "layer1"
           }
         ],
         "items": [
           {
-            "id": "https://sounding-off.github.io/allen-ginsberg-collab/allen-ginsberg-at-hudson-1994/canvas-1/paintings",
+            "id": "https://kywark.github.io/allen-ginsberg-collab/allen-ginsberg-at-hudson-1994/canvas-1/paintings",
             "type": "AnnotationPage",
             "items": [
               {
-                "id": "https://sounding-off.github.io/allen-ginsberg-collab/allen-ginsberg-at-hudson-1994/canvas-1/painting",
+                "id": "https://kywark.github.io/allen-ginsberg-collab/allen-ginsberg-at-hudson-1994/canvas-1/painting",
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
@@ -46,7 +52,7 @@
                   "format": "audio/mp3",
                     "duration": 51.0
                 },
-                "target": "https://sounding-off.github.io/allen-ginsberg-collab/allen-ginsberg-at-hudson-1994/canvas-1/canvas"
+                "target": "https://kywark.github.io/allen-ginsberg-collab/allen-ginsberg-at-hudson-1994/canvas-1/canvas"
               }
             ]
           }
