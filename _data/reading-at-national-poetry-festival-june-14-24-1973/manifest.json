@@ -1,0 +1,46 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://kywark.github.io/allen-ginsberg-collab/reading-at-national-poetry-festival-june-14-24-1973/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Reading at National Poetry Festival, June 14-24, 1973" ] },
+    "homepage": [
+      {
+        "id": "https://writing.upenn.edu/pennsound/x/Ginsberg.php",
+        "type": "Text",
+        "label": { "en": [ "Reading at National Poetry Festival, June 14-24, 1973" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://www.upenn.edu/",
+        "type": "Agent",
+        "label": { "en": [ "University of Pennsylvania" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://kywark.github.io/allen-ginsberg-collab/reading-at-national-poetry-festival-june-14-24-1973/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1981.0,
+        "items": [
+          {
+            "id": "https://kywark.github.io/allen-ginsberg-collab/reading-at-national-poetry-festival-june-14-24-1973/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://kywark.github.io/allen-ginsberg-collab/reading-at-national-poetry-festival-june-14-24-1973/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://media.sas.upenn.edu/pennsound/groups/National-Poetry-Festival-1973/Video/Objectivists-and-After_01_National-Poetry-Festival_Thomas-Jefferson-College_Michigan_6-16-1973.m4v",
+                    "duration": 1981.0
+                },
+                "target": "https://kywark.github.io/allen-ginsberg-collab/reading-at-national-poetry-festival-june-14-24-1973/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
