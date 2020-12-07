@@ -1,0 +1,46 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://kywark.github.io/allen-ginsberg-collab/f45-mkatz-video/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "F45 Mkatz Video" ] },
+    "homepage": [
+      {
+        "id": "",
+        "type": "Text",
+        "label": { "en": [ "F45 Mkatz Video" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "",
+        "type": "Agent",
+        "label": { "en": [ "" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://kywark.github.io/allen-ginsberg-collab/f45-mkatz-video/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 2455.0,
+        "items": [
+          {
+            "id": "https://kywark.github.io/allen-ginsberg-collab/f45-mkatz-video/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://kywark.github.io/allen-ginsberg-collab/f45-mkatz-video/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "",
+                    "duration": 2455.0
+                },
+                "target": "https://kywark.github.io/allen-ginsberg-collab/f45-mkatz-video/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
